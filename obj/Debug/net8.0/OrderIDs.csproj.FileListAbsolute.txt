@@ -1,0 +1,14 @@
+D:\C#\OrderIDs\bin\Debug\net8.0\OrderIDs.exe
+D:\C#\OrderIDs\bin\Debug\net8.0\OrderIDs.deps.json
+D:\C#\OrderIDs\bin\Debug\net8.0\OrderIDs.runtimeconfig.json
+D:\C#\OrderIDs\bin\Debug\net8.0\OrderIDs.dll
+D:\C#\OrderIDs\bin\Debug\net8.0\OrderIDs.pdb
+D:\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.AssemblyInfoInputs.cache
+D:\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.AssemblyInfo.cs
+D:\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.csproj.CoreCompileInputs.cache
+D:\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.dll
+D:\C#\OrderIDs\obj\Debug\net8.0\refint\OrderIDs.dll
+D:\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.pdb
+D:\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.genruntimeconfig.cache
+D:\C#\OrderIDs\obj\Debug\net8.0\ref\OrderIDs.dll
